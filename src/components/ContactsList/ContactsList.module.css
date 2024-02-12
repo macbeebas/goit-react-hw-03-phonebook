@@ -1,0 +1,25 @@
+:root {
+  /* variables */
+  --global-ratio: 1em;
+  /* 1em = 32px */
+}
+
+.constactList {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  width: fit-content;
+}
+
+.contactItem {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contactName {
+  margin: 0;
+}
+
+.contactBtn {
+  margin-left: 10px;
+}

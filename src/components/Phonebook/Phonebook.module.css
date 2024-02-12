@@ -1,0 +1,34 @@
+:root {
+  /* variables */
+  --global-ratio: 1em;
+  /* 1em = 32px */
+}
+
+.formContainer {
+  display: flex;
+  outline: 1px solid black;
+}
+
+.formMain {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.formLabel {
+  padding: 5px;
+}
+
+.formInput {
+  min-width: 35vb;
+}
+
+.formLabel>p {
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.buttonAdd {
+  margin: 5px auto 5px 5px;
+  padding: 5px;
+}
