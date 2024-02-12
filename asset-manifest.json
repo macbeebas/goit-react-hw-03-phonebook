@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/macbeebas/goit-react-hw-03-phonebook.git/static/css/main.a5c2ef39.css",
-    "main.js": "/macbeebas/goit-react-hw-03-phonebook.git/static/js/main.0e818af4.js",
-    "index.html": "/macbeebas/goit-react-hw-03-phonebook.git/index.html",
-    "main.a5c2ef39.css.map": "/macbeebas/goit-react-hw-03-phonebook.git/static/css/main.a5c2ef39.css.map",
-    "main.0e818af4.js.map": "/macbeebas/goit-react-hw-03-phonebook.git/static/js/main.0e818af4.js.map"
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.a5c2ef39.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.0e818af4.js",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "main.a5c2ef39.css.map": "/goit-react-hw-03-phonebook/static/css/main.a5c2ef39.css.map",
+    "main.0e818af4.js.map": "/goit-react-hw-03-phonebook/static/js/main.0e818af4.js.map"
   },
   "entrypoints": [
     "static/css/main.a5c2ef39.css",
