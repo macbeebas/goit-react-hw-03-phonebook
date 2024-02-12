@@ -59,7 +59,7 @@ class App extends Component {
     return (
       <div className="container">
         <div className="components-list">
-          <p>STEP#6</p>
+          <p>GoIT #15 - React.JS - Module 3 - task 'Phonebook' </p>
           <Section title="Phonebook">
             <Phonebook onSubmit={this.addContact} />
           </Section>
